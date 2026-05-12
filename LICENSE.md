@@ -1,4 +1,4 @@
-#  
+#  Experience bedwars like never before with automatic Scripts for bedwars, the #1 Script. Includes auto-collect and custom skins for unbeatable
 
 
 
